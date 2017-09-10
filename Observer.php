@@ -4,6 +4,12 @@
  * User: Administrator
  * Date: 2017/9/10 0010
  * Time: 下午 9:53
+ *
+ * 观察者模式 Observer
+ * user 登录 （目标）
+ * 安全检查 和 广告 （观察者）
+ *
+ *
  */
 
 
