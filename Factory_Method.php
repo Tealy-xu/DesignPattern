@@ -7,7 +7,7 @@
  */
 
 //工厂方法 Factory Method
-//修改是封闭的 扩展是开发的
+//修改是封闭的 扩展是开放的
 interface db{
     function conn();
 }
