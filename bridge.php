@@ -6,6 +6,8 @@
  * Time: 下午 11:49
  */
 
+//桥接模式
+
 abstract class info
 {
     protected $send = null;
